@@ -39,7 +39,7 @@ flux check --pre
 
 # Setup flux in the cluster via the bootstrap method
 
-flux 2 provisioned via terraform. See, `terraform/...`: 
+flux 2 provisioned via terraform. See, `flux2/...` 
 
 # To use the make file
 run 
