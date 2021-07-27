@@ -1,6 +1,6 @@
 # eks_flux2_terraform
 
-# Guide: https://joshuajordancallis.medium.com/setup-eks-and-flux-2-with-terraform-c9677eea5731?postPublishedType=initial
+# (Guide here)[https://joshuajordancallis.medium.com/setup-eks-and-flux-2-with-terraform-c9677eea5731?postPublishedType=initial]
 
 # Cluster 1.20
 
