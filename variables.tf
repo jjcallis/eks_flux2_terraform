@@ -2,9 +2,6 @@ variable "cluster_name" {
     type = string
 }
 
-variable "location" {
-    type = string
-}
 variable "github_owner" {
   type        = string
   description = "github owner"
